@@ -1,0 +1,14 @@
+x = int(input("whats the value of x? "))
+y = int(input("whats the value of y? "))
+
+# if x < y:
+#    print("x is less than y")
+# elif x > y:
+#    print("x is greater than y")
+# else:
+#     print(" x is equal to y")
+
+if x != y:
+    print("x is not equal to y ")
+else:
+    print("x is qual to y")
