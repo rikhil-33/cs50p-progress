@@ -1,0 +1,10 @@
+abs(x) (Absolute Value):
+print(abs(-5))  # Outputs 5
+
+pow(x, y) (Power):
+print(pow(2, 3))  # 2 raised to the power of 3 (2 * 2 * 2) = 8
+
+Function                 Input: 3.7            Input: -3.7
+math.floor() (Down)          3                      -4
+math.ceil()  (Up)            4                      -3
+
