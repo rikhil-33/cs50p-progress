@@ -1,5 +1,5 @@
 nums = [-1, 2, -3, 4]
-total_elements = len(nums) # This will equal 4
+total_elements = len(nums) # This will equal 4 (len = length)
 -----------------------------------------------------------------------------------------
 product = math.prod(nums) #product of all the numbers in the list (nums)
 -----------------------------------------------------------------------------------------

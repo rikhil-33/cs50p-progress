@@ -1,0 +1,2 @@
+append() is a Python list method that adds one item to the end of a list.
+--------------------------------------------------------------------------
