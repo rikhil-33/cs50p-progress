@@ -1,2 +1,16 @@
 append() is a Python list method that adds one item to the end of a list.
 --------------------------------------------------------------------------
+isalnum() => is alphanumeric?
+"Alphanumeric" means:
+✅ Letters (a-z, A-Z)
+✅ Numbers (0-9)
+❌ Spaces
+❌ Commas
+❌ Periods
+❌ @, #, !, etc.
+-----------------------------------
+word = "hello"
+print(word[::-1]) or word == word[::-1]
+
+Output:
+olleh
